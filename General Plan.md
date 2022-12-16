@@ -7,6 +7,6 @@
 # Ansible
 2022.09 - 2022.10
 # Jenkins
-~
+2022.11 - 2022.12
 # Terraform
 ~
